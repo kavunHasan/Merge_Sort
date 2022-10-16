@@ -22,3 +22,4 @@ given list = [16,21,11,8,12,22]
 -------Big-O notation---------
 O(nlogn)
 -------Big-O notation---------
+[Patika.dev](https://www.patika.dev/tr) 
